@@ -1,0 +1,28 @@
+@import '~bootswatch/dist/superhero/variables';
+@import '~bootstrap/scss/bootstrap';
+@import '~bootswatch/dist/superhero/bootswatch';
+
+.container {
+	padding: 15px;
+	height: 100%;
+}
+// .navbar {
+// 	height: 50px;
+
+// 	.navbar-collapse {
+// 		display: flex;
+// 		flex-direction: row;
+// 		justify-content: center;
+// 		flex-basis: 100%;
+// 		flex-grow: 1;
+// 		align-items: center;
+
+// 		.navbar-nav {
+// 			flex-direction: row;
+// 			justify-content: space-evenly;
+// 		}
+// 		.mr-auto {
+// 			margin: 0;
+// 		}
+// 	}
+// }
